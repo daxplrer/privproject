@@ -1,0 +1,1 @@
+deno run ./run.sh --unstable -A
